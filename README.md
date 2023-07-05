@@ -1,3 +1,19 @@
+<p align="center"><img src="./public/logo.png" alt="Logo" width="300" height="300"></p>
+<h1 align="center">Google Shopping Clone</h1>
+<h4 align="center">A clone of Google Shopping built with React, Next.js, Tailwind CSS, Oxylabs and TypeScript.</h4>
+
+# Featues
+
+- [x] Responsive UI
+- [X] Real-time search
+- [x] Context Filters
+- [x] Skeleton Loading
+- [x] Product Details/Page
+
+# Demo
+
+![Demo](./public/demo.gif)
+
 # Setup
 
 ```bash

@@ -29,7 +29,12 @@
 			{
 				"name": "next"
 			}
-		]
+		],
+		"baseUrl": "./",
+		"paths": {
+			"@/*": ["./src/*"],
+			"@tests/*": ["./tests/*"]
+		}
 	},
 	"include": ["src/**/*", "tests/**/*", "dist/types/**/*.ts"],
 	"exclude": ["node_modules", "dist", "types"]
